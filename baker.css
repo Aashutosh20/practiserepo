@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital@1&display=swap');
+.banner{
+	background-image: url('portfolio/hero-bg.jpg');
+	background-size: cover;
+	height: 80vh;
+	width: 100%;
+	filter: brightness(0.6);
+	position: absolute;
+}
+.navbar-brand{font-size: 30px;
+	margin-top: 0px;
+	margin-left:70px;
+	 font-family: 'Palette Mosaic', cursive;
+	 height: 50px;
+}
+
+.collapse a{color: white;
+}
+
+.three{
+	position: relative;
+	top: 200px;
+	width: 100%;
+	text-align: center;
+}
+.three h3{
+	font-size: 50px;
+	color: whitesmoke;
+	font-family: 'Volkhov', serif;
+}
+.three p{
+	font-size: 30px;
+	color: whitesmoke;
+}
+.three button{
+	border-radius: 20px;
+}
+
+.five{width: 100%;
+	height: 80px;background: gainsboro;
+	margin-top: 370px;
+}
+.five img{
+	width: 120px;
+	margin-top:10px;
+	margin-left:100px;
+}
+
+
+.seven img{ width: 600px;  
+	margin-top:60px; }
+.eight{
+	margin-top: 60px;
+}
+.eight p{
+	font-size: 15px;
+}
+.nine img{
+	width: 50px;
+}
+.col h2{
+	font-size: 28px;
+font-family: 'Volkhov', serif;
+}
+
+.ten{margin-left: 130px;
+	height: 150px;
+	margin-top: 10px;
+	padding-top: 30px;
+
+}
+.ten h2{
+	font-size: 55px;
+}
+.ten p{
+	font-size: 18px;
+margin-left: 10px;
+}
+.ele{
+	margin-top: 30px;
+	text-align: center;
+}
+
+
+.ele h2{
+	font-size: 30px;
+font-family: 'Volkhov', serif;
+}
+
+.twe {
+	margin-top: 60px;
+	text-align: center;
+
+}
+.twe img{
+	width: 50px;
+}
+.fourteen{
+	height: 200px;
+	background: #414C64;
+	text-align: center;
+}
+.fourteen h3{
+	text-align: center;
+	color: whitesmoke;
+	padding-top: 30px;
+	font-family:'Carter One', cursive ;
+}
+.fourteen p{
+	color: whitesmoke;
+}
+.fourteen button{
+	border-radius: 20px;
+	font-size: 20px;
+
+}
+.fourteen a{
+	color: whitesmoke;
+}
+.fifteen{background: whitesmoke;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;	
+}
+
+.fifteen h3{
+	font-family:'Carter One', cursive ;
+	font-size: 30px;
+	border-bottom: 2px solid yellow ;
+	padding-bottom: 10px;
+}
+
+.fifteen p{
+	font-size: 15px;
+}
